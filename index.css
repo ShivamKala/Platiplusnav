@@ -1,0 +1,37 @@
+*{
+  font-family: 'Poppins', sans-serif;
+}
+
+.nav-bg{
+  background: #2541b2;
+}
+.nav-link{
+  margin: 4px 4px;
+}
+.dropdown-item{
+  color:#ffffff;
+}
+
+.dropdown-item:hover svg {
+  stroke:#000000;
+}
+
+.dropdown-item:focus{
+  background:#ffffff;
+  color:#000000;
+}
+
+.displayclose{
+  display: none;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+#close{
+  font-size: 27px;
+}
