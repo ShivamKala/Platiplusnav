@@ -2,8 +2,12 @@
   font-family: 'Poppins', sans-serif;
 }
 
+/* Colors 
+#048fbd
+
+*/
 .nav-bg{
-  background: #2541b2;
+  background: #03698b;
 }
 .nav-link{
   margin: 4px 4px;
@@ -35,3 +39,13 @@
 #close{
   font-size: 27px;
 }
+
+.navbar-dark .navbar-nav .nav-link{
+  color: #ffffffc7;
+}
+
+.nav-link svg{
+  margin-right: 5px;
+}
+
+
